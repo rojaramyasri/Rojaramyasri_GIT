@@ -1,0 +1,2 @@
+﻿Git is  currently the most popular implementation of distributed version control system.
+Git originates from the linux kernal developement  and was founded in 2005 by Linus Torvalds
